@@ -1,0 +1,1119 @@
+{
+  "isFlippedHorizontal" : false,
+  "style" : {
+    "windingRule" : 1,
+    "_class" : "style",
+    "miterLimit" : 10,
+    "startMarkerType" : 0,
+    "endMarkerType" : 0
+  },
+  "rotation" : 0,
+  "frame" : {
+    "x" : 0,
+    "y" : 0,
+    "_class" : "rect",
+    "constrainProportions" : false,
+    "height" : 300,
+    "width" : 300
+  },
+  "do_objectID" : "C6F9C42C-15EF-48E8-8606-B9BC9CFD105D",
+  "layerListExpandedType" : 0,
+  "exportOptions" : {
+    "shouldTrim" : false,
+    "includedLayerIds" : [
+
+    ],
+    "layerOptions" : 0,
+    "_class" : "exportOptions",
+    "exportFormats" : [
+
+    ]
+  },
+  "hasClickThrough" : true,
+  "horizontalRulerData" : {
+    "base" : -652,
+    "_class" : "rulerData",
+    "guides" : [
+
+    ]
+  },
+  "includeInCloudUpload" : true,
+  "verticalRulerData" : {
+    "base" : -477,
+    "_class" : "rulerData",
+    "guides" : [
+
+    ]
+  },
+  "isFlippedVertical" : false,
+  "nameIsFixed" : true,
+  "name" : "Cover",
+  "isVisible" : true,
+  "resizingType" : 0,
+  "layers" : [
+    {
+      "isFlippedHorizontal" : false,
+      "style" : {
+        "_class" : "style",
+        "miterLimit" : 10,
+        "do_objectID" : "ECDB8FA7-50FA-4AF3-B129-D9DE974F3DA2",
+        "fills" : [
+          {
+            "_class" : "fill",
+            "color" : {
+              "red" : 1,
+              "_class" : "color",
+              "alpha" : 1,
+              "blue" : 1,
+              "green" : 1
+            },
+            "patternTileScale" : 1,
+            "fillType" : 0,
+            "noiseIntensity" : 0,
+            "patternFillType" : 1,
+            "noiseIndex" : 0,
+            "isEnabled" : true
+          }
+        ],
+        "startMarkerType" : 0,
+        "windingRule" : 1,
+        "endMarkerType" : 0
+      },
+      "rotation" : 0,
+      "frame" : {
+        "_class" : "rect",
+        "height" : 863,
+        "do_objectID" : "6EE235F3-FF98-4FA5-B2C8-818BE0BA8C90",
+        "constrainProportions" : false,
+        "x" : -143,
+        "width" : 1079,
+        "y" : -331
+      },
+      "do_objectID" : "C26A616C-B292-4426-A21B-7597BCF3FEED",
+      "layerListExpandedType" : 2,
+      "exportOptions" : {
+        "shouldTrim" : false,
+        "do_objectID" : "A2951A82-F555-4A94-9329-5A79FFA352E9",
+        "includedLayerIds" : [
+
+        ],
+        "_class" : "exportOptions",
+        "layerOptions" : 0,
+        "exportFormats" : [
+
+        ]
+      },
+      "hasClickThrough" : true,
+      "hasBackgroundColor" : false,
+      "horizontalRulerData" : {
+        "do_objectID" : "A80274C9-B540-4B48-80A8-1A560B3D2979",
+        "_class" : "rulerData",
+        "base" : 0,
+        "guides" : [
+
+        ]
+      },
+      "backgroundColor" : {
+        "do_objectID" : "0F37BAF9-6877-4447-AD83-DAAA27F1E846",
+        "red" : 0.12941176470588231,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.12941176470588231,
+        "green" : 0.12941176470588231
+      },
+      "includeInCloudUpload" : true,
+      "resizesContent" : false,
+      "verticalRulerData" : {
+        "do_objectID" : "9A7FD7FE-C2E2-497D-8C15-EACC21E38A9A",
+        "_class" : "rulerData",
+        "base" : 0,
+        "guides" : [
+
+        ]
+      },
+      "isFlippedVertical" : false,
+      "nameIsFixed" : false,
+      "name" : "Library Preview",
+      "isVisible" : true,
+      "resizingType" : 0,
+      "layers" : [
+        {
+          "isFlippedHorizontal" : false,
+          "style" : {
+            "windingRule" : 1,
+            "_class" : "style",
+            "miterLimit" : 10,
+            "startMarkerType" : 0,
+            "endMarkerType" : 0
+          },
+          "rotation" : 0,
+          "frame" : {
+            "x" : -108,
+            "y" : -112,
+            "_class" : "rect",
+            "constrainProportions" : false,
+            "height" : 1087,
+            "width" : 1359
+          },
+          "do_objectID" : "E034D334-BA02-432B-A212-541451647C1F",
+          "layerListExpandedType" : 1,
+          "exportOptions" : {
+            "shouldTrim" : false,
+            "includedLayerIds" : [
+
+            ],
+            "layerOptions" : 0,
+            "_class" : "exportOptions",
+            "exportFormats" : [
+
+            ]
+          },
+          "hasClickThrough" : false,
+          "isFlippedVertical" : false,
+          "nameIsFixed" : true,
+          "name" : "Baseline",
+          "isVisible" : true,
+          "resizingType" : 0,
+          "layers" : [
+            {
+              "isFlippedHorizontal" : false,
+              "verticalSpacing" : 0,
+              "style" : {
+                "startMarkerType" : 0,
+                "windingRule" : 1,
+                "_class" : "style",
+                "contextSettings" : {
+                  "opacity" : 0.20000000000000001,
+                  "_class" : "graphicsContextSettings",
+                  "blendMode" : 0
+                },
+                "miterLimit" : 10,
+                "endMarkerType" : 0
+              },
+              "rotation" : 0,
+              "frame" : {
+                "x" : 0,
+                "y" : 0,
+                "_class" : "rect",
+                "constrainProportions" : false,
+                "height" : 1087,
+                "width" : 1359
+              },
+              "do_objectID" : "082FE210-2066-40C7-BD19-710B530A27B5",
+              "layerListExpandedType" : 0,
+              "exportOptions" : {
+                "shouldTrim" : false,
+                "includedLayerIds" : [
+
+                ],
+                "layerOptions" : 0,
+                "_class" : "exportOptions",
+                "exportFormats" : [
+
+                ]
+              },
+              "symbolID" : "13A98AD8-2C72-4ED5-B872-A1CDF9769942",
+              "isFlippedVertical" : false,
+              "nameIsFixed" : true,
+              "name" : "✱ \/ Color \/ Surface \/ Main",
+              "isVisible" : true,
+              "resizingType" : 0,
+              "horizontalSpacing" : 0,
+              "isLocked" : true,
+              "scale" : 1,
+              "shouldBreakMaskChain" : false,
+              "isFixedToViewport" : false,
+              "_class" : "symbolInstance",
+              "booleanOperation" : 0,
+              "resizingConstraint" : 63,
+              "overrideValues" : [
+                {
+                  "do_objectID" : "0AC21285-3411-4E89-9AA8-1811E6131D5B",
+                  "overrideName" : "5EDA851F-AB34-437C-928E-A9D2802C2469_symbolID",
+                  "_class" : "overrideValue",
+                  "value" : "4930830B-5113-4EEE-8DDA-7C0E501250D8"
+                }
+              ]
+            },
+            {
+              "isFlippedHorizontal" : false,
+              "verticalSpacing" : 0,
+              "style" : {
+                "windingRule" : 1,
+                "do_objectID" : "10A9D330-02C7-4E25-A183-EA24F49F48C0",
+                "_class" : "style",
+                "miterLimit" : 10,
+                "startMarkerType" : 0,
+                "endMarkerType" : 0
+              },
+              "rotation" : 0,
+              "frame" : {
+                "_class" : "rect",
+                "height" : 84,
+                "do_objectID" : "AF0E18C1-BD81-4701-A419-A573BA886E47",
+                "constrainProportions" : false,
+                "x" : 80,
+                "width" : 360,
+                "y" : 294
+              },
+              "do_objectID" : "7FF0CE9F-1181-4796-9949-36B9CDC2EB92",
+              "layerListExpandedType" : 0,
+              "exportOptions" : {
+                "shouldTrim" : false,
+                "do_objectID" : "DEFE6804-96B6-422E-998C-B2FE37B26F6C",
+                "includedLayerIds" : [
+
+                ],
+                "_class" : "exportOptions",
+                "layerOptions" : 0,
+                "exportFormats" : [
+
+                ]
+              },
+              "symbolID" : "7959AF66-E529-4F1A-A899-B8A433DEBC83",
+              "isFlippedVertical" : false,
+              "nameIsFixed" : false,
+              "name" : "App Bar \/ Bottom App Bar \/ Centered FAB \/ Circular \/ Overlapping",
+              "isVisible" : true,
+              "resizingType" : 0,
+              "horizontalSpacing" : 0,
+              "isLocked" : false,
+              "scale" : 1,
+              "shouldBreakMaskChain" : false,
+              "isFixedToViewport" : false,
+              "_class" : "symbolInstance",
+              "booleanOperation" : 0,
+              "resizingConstraint" : 63,
+              "overrideValues" : [
+
+              ]
+            },
+            {
+              "isFlippedHorizontal" : false,
+              "verticalSpacing" : 0,
+              "style" : {
+                "windingRule" : 1,
+                "do_objectID" : "5B22D640-61F9-4499-803B-B1432A15E344",
+                "_class" : "style",
+                "miterLimit" : 10,
+                "startMarkerType" : 0,
+                "endMarkerType" : 0
+              },
+              "rotation" : 0,
+              "frame" : {
+                "_class" : "rect",
+                "height" : 172,
+                "do_objectID" : "AADBA846-6120-458D-8F40-EF589AD336AD",
+                "constrainProportions" : false,
+                "x" : 96,
+                "width" : 344,
+                "y" : 438
+              },
+              "do_objectID" : "21C85BC6-D9B9-4B34-A470-7DDC36F44CCF",
+              "layerListExpandedType" : 0,
+              "exportOptions" : {
+                "shouldTrim" : false,
+                "do_objectID" : "337A3D60-5A0D-42D7-9249-8B70AD6BEA8F",
+                "includedLayerIds" : [
+
+                ],
+                "_class" : "exportOptions",
+                "layerOptions" : 0,
+                "exportFormats" : [
+
+                ]
+              },
+              "symbolID" : "3800F8E5-F5B7-485C-A770-4C3958B44837",
+              "isFlippedVertical" : false,
+              "nameIsFixed" : false,
+              "name" : "Cards \/ List 1-up \/ Filled \/ Overline \/ Resting",
+              "isVisible" : true,
+              "resizingType" : 0,
+              "horizontalSpacing" : 0,
+              "isLocked" : false,
+              "scale" : 1,
+              "shouldBreakMaskChain" : false,
+              "isFixedToViewport" : false,
+              "_class" : "symbolInstance",
+              "booleanOperation" : 0,
+              "resizingConstraint" : 63,
+              "overrideValues" : [
+
+              ]
+            },
+            {
+              "isFlippedHorizontal" : false,
+              "verticalSpacing" : 0,
+              "style" : {
+                "windingRule" : 1,
+                "do_objectID" : "DB21F00B-1EEF-46A7-806C-21BE26DC0677",
+                "_class" : "style",
+                "miterLimit" : 10,
+                "startMarkerType" : 0,
+                "endMarkerType" : 0
+              },
+              "rotation" : 0,
+              "frame" : {
+                "_class" : "rect",
+                "height" : 72,
+                "do_objectID" : "1F4EBF97-BD0C-4A65-86AE-9E8F8915DDE1",
+                "constrainProportions" : false,
+                "x" : 500,
+                "width" : 360,
+                "y" : 849
+              },
+              "do_objectID" : "AF7DB8D7-87F9-447A-82C5-54B3E87628A2",
+              "layerListExpandedType" : 0,
+              "exportOptions" : {
+                "shouldTrim" : false,
+                "do_objectID" : "367EAF2A-5111-457F-8546-E194DD53BA9C",
+                "includedLayerIds" : [
+
+                ],
+                "_class" : "exportOptions",
+                "layerOptions" : 0,
+                "exportFormats" : [
+
+                ]
+              },
+              "symbolID" : "C7DCE999-B78C-408D-80A6-4A89C887530D",
+              "isFlippedVertical" : false,
+              "nameIsFixed" : false,
+              "name" : "Tab \/ Fixed Tabs \/ Text & Icons \/ Raised",
+              "isVisible" : true,
+              "resizingType" : 0,
+              "horizontalSpacing" : 0,
+              "isLocked" : false,
+              "scale" : 1,
+              "shouldBreakMaskChain" : false,
+              "isFixedToViewport" : false,
+              "_class" : "symbolInstance",
+              "booleanOperation" : 0,
+              "resizingConstraint" : 63,
+              "overrideValues" : [
+
+              ]
+            },
+            {
+              "isFlippedHorizontal" : false,
+              "verticalSpacing" : 0,
+              "style" : {
+                "windingRule" : 1,
+                "do_objectID" : "DBA60944-B95A-4276-888B-816EF0DB7393",
+                "_class" : "style",
+                "miterLimit" : 10,
+                "startMarkerType" : 0,
+                "endMarkerType" : 0
+              },
+              "rotation" : 0,
+              "frame" : {
+                "_class" : "rect",
+                "height" : 56,
+                "do_objectID" : "73EEECA5-719D-4329-97D4-B94CDBBBE6F8",
+                "constrainProportions" : false,
+                "x" : 194,
+                "width" : 56,
+                "y" : 766
+              },
+              "do_objectID" : "333B8B5C-CD91-4BBD-AC61-5E06F1EF2F58",
+              "layerListExpandedType" : 0,
+              "exportOptions" : {
+                "shouldTrim" : false,
+                "do_objectID" : "733E05FB-B73C-4855-94C7-E87BFF14E0EC",
+                "includedLayerIds" : [
+
+                ],
+                "_class" : "exportOptions",
+                "layerOptions" : 0,
+                "exportFormats" : [
+
+                ]
+              },
+              "symbolID" : "0B740AC4-C5E5-44F2-AB51-EB3D498B1A70",
+              "isFlippedVertical" : false,
+              "nameIsFixed" : false,
+              "name" : "FAB \/ Standard \/ Circular \/ Secondary Color \/ Enabled ",
+              "isVisible" : true,
+              "resizingType" : 0,
+              "horizontalSpacing" : 0,
+              "isLocked" : false,
+              "scale" : 1,
+              "shouldBreakMaskChain" : false,
+              "isFixedToViewport" : false,
+              "_class" : "symbolInstance",
+              "booleanOperation" : 0,
+              "resizingConstraint" : 63,
+              "overrideValues" : [
+                {
+                  "do_objectID" : "F9758EDF-23DF-4C16-A92A-5870C126DCAC",
+                  "overrideName" : "51FF4FD3-9AB6-45A7-9CE6-981E2D5E321D\/143F364B-9858-466A-9BB3-C98D9B6ACDF6\/8093273C-F171-4E4A-8A30-003A41D20C83_symbolID",
+                  "_class" : "overrideValue",
+                  "value" : "4DE09772-C950-4890-B3AD-9B56CBA38BDC"
+                },
+                {
+                  "do_objectID" : "C5AD3891-13CF-4C02-8F52-B4AECF87E793",
+                  "overrideName" : "BBA1B67E-B053-40B1-8087-DCCD9FE27D10\/8DFFD4CE-B00D-49C4-9099-88EB8255543B_symbolID",
+                  "_class" : "overrideValue",
+                  "value" : "4DE09772-C950-4890-B3AD-9B56CBA38BDC"
+                },
+                {
+                  "do_objectID" : "1EE5AD9D-1220-4B31-89A4-10EB4BBE3ACF",
+                  "overrideName" : "024A6CEE-D1C6-4F7B-93D8-A21B3BEB7FAC\/8093273C-F171-4E4A-8A30-003A41D20C83_symbolID",
+                  "_class" : "overrideValue",
+                  "value" : "51DBFA7F-7275-4C51-AD4E-19143533FEE4"
+                },
+                {
+                  "do_objectID" : "E863555E-CCFB-41EE-BB85-95704D7B1B03",
+                  "overrideName" : "024A6CEE-D1C6-4F7B-93D8-A21B3BEB7FAC_symbolID",
+                  "_class" : "overrideValue",
+                  "value" : "8466DDE8-32D0-4A73-BF97-6159FCB4DB3C"
+                },
+                {
+                  "do_objectID" : "861A3BB2-B946-4F6A-A488-35DCD79B6DEB",
+                  "overrideName" : "4DDAB75C-C45C-4B35-9F4A-F1C43C8C7CC3_symbolID",
+                  "_class" : "overrideValue",
+                  "value" : "5942F15C-22C0-4A67-8C16-3CA8BA8F6656"
+                },
+                {
+                  "do_objectID" : "1DAAF844-3C90-47B2-8816-304BC154D732",
+                  "overrideName" : "024A6CEE-D1C6-4F7B-93D8-A21B3BEB7FAC\/1C170543-0191-4186-B321-DC4B02DD9D4A_symbolID",
+                  "_class" : "overrideValue",
+                  "value" : "ED8B4398-9F84-4DE5-B6F4-AA111EBBF136"
+                }
+              ]
+            },
+            {
+              "isFlippedHorizontal" : false,
+              "verticalSpacing" : 0,
+              "style" : {
+                "windingRule" : 1,
+                "do_objectID" : "2AA33DA3-BEA2-4C9B-8245-3029B6CF87A9",
+                "_class" : "style",
+                "miterLimit" : 10,
+                "startMarkerType" : 0,
+                "endMarkerType" : 0
+              },
+              "rotation" : 0,
+              "frame" : {
+                "_class" : "rect",
+                "height" : 72,
+                "do_objectID" : "19F75EBC-9513-49B1-A849-9A29509F3FCB",
+                "constrainProportions" : false,
+                "x" : 920,
+                "width" : 360,
+                "y" : 792
+              },
+              "do_objectID" : "BF17CBC7-6F28-49B9-9653-A195FF789E6F",
+              "layerListExpandedType" : 0,
+              "exportOptions" : {
+                "shouldTrim" : false,
+                "do_objectID" : "119DCCD4-40BC-47A7-B7CF-389CC0EA3B6E",
+                "includedLayerIds" : [
+
+                ],
+                "_class" : "exportOptions",
+                "layerOptions" : 0,
+                "exportFormats" : [
+
+                ]
+              },
+              "symbolID" : "8DE2B344-F4B3-45A6-81F1-37C379B12529",
+              "isFlippedVertical" : false,
+              "nameIsFixed" : false,
+              "name" : "List \/ Two Line \/ Image 16:9",
+              "isVisible" : true,
+              "resizingType" : 0,
+              "horizontalSpacing" : 0,
+              "isLocked" : false,
+              "scale" : 1,
+              "shouldBreakMaskChain" : false,
+              "isFixedToViewport" : false,
+              "_class" : "symbolInstance",
+              "booleanOperation" : 0,
+              "resizingConstraint" : 63,
+              "overrideValues" : [
+
+              ]
+            },
+            {
+              "isFlippedHorizontal" : false,
+              "verticalSpacing" : 0,
+              "style" : {
+                "windingRule" : 1,
+                "do_objectID" : "6233DF6E-0101-4336-AFD5-3AF303B25583",
+                "_class" : "style",
+                "miterLimit" : 10,
+                "startMarkerType" : 0,
+                "endMarkerType" : 0
+              },
+              "rotation" : 0,
+              "frame" : {
+                "_class" : "rect",
+                "height" : 72,
+                "do_objectID" : "5C43231A-3AD2-41B1-ACE1-845CD298D97C",
+                "constrainProportions" : false,
+                "x" : 920,
+                "width" : 360,
+                "y" : 720
+              },
+              "do_objectID" : "2B438293-0248-465B-A7B0-B08A0EB80D48",
+              "layerListExpandedType" : 0,
+              "exportOptions" : {
+                "shouldTrim" : false,
+                "do_objectID" : "B7E44BD5-87D9-48DA-9AE7-3AFD8D16D01F",
+                "includedLayerIds" : [
+
+                ],
+                "_class" : "exportOptions",
+                "layerOptions" : 0,
+                "exportFormats" : [
+
+                ]
+              },
+              "symbolID" : "8DE2B344-F4B3-45A6-81F1-37C379B12529",
+              "isFlippedVertical" : false,
+              "nameIsFixed" : false,
+              "name" : "List \/ Two Line \/ Image 16:9",
+              "isVisible" : true,
+              "resizingType" : 0,
+              "horizontalSpacing" : 0,
+              "isLocked" : false,
+              "scale" : 1,
+              "shouldBreakMaskChain" : false,
+              "isFixedToViewport" : false,
+              "_class" : "symbolInstance",
+              "booleanOperation" : 0,
+              "resizingConstraint" : 63,
+              "overrideValues" : [
+
+              ]
+            },
+            {
+              "isFlippedHorizontal" : false,
+              "verticalSpacing" : 0,
+              "style" : {
+                "windingRule" : 1,
+                "do_objectID" : "1B5BD510-AD6C-4642-A7F3-C838582D317A",
+                "_class" : "style",
+                "miterLimit" : 10,
+                "startMarkerType" : 0,
+                "endMarkerType" : 0
+              },
+              "rotation" : 0,
+              "frame" : {
+                "_class" : "rect",
+                "height" : 68,
+                "do_objectID" : "0AA87423-2C2F-47DA-9C13-B9D2C30DF4CA",
+                "constrainProportions" : false,
+                "x" : 920,
+                "width" : 360,
+                "y" : 484
+              },
+              "do_objectID" : "0925F248-8EE3-49FA-B99E-7730EDC8ACC3",
+              "layerListExpandedType" : 0,
+              "exportOptions" : {
+                "shouldTrim" : false,
+                "do_objectID" : "4EA65243-A40B-4507-8F45-EDC97B1B4C1E",
+                "includedLayerIds" : [
+
+                ],
+                "_class" : "exportOptions",
+                "layerOptions" : 0,
+                "exportFormats" : [
+
+                ]
+              },
+              "symbolID" : "C45D3B01-F0D0-4773-B0D9-14CACA41F6EF",
+              "isFlippedVertical" : false,
+              "nameIsFixed" : true,
+              "name" : "Snackbar \/ with Action \/ Two-line",
+              "isVisible" : true,
+              "resizingType" : 0,
+              "horizontalSpacing" : 0,
+              "isLocked" : false,
+              "scale" : 1,
+              "shouldBreakMaskChain" : false,
+              "isFixedToViewport" : false,
+              "_class" : "symbolInstance",
+              "booleanOperation" : 0,
+              "resizingConstraint" : 63,
+              "overrideValues" : [
+                {
+                  "do_objectID" : "B7DED318-16DD-4297-BA2A-5A3F6726FA74",
+                  "overrideName" : "36D2A517-DFC0-4779-A16A-297E7469661E\/1C9FA7C9-0315-4134-9159-EF8437F91D24_stringValue",
+                  "_class" : "overrideValue",
+                  "value" : "Greyhound divisively hello coldly wonderfully marginally far upon excluding."
+                }
+              ]
+            },
+            {
+              "isFlippedHorizontal" : false,
+              "verticalSpacing" : 0,
+              "style" : {
+                "windingRule" : 1,
+                "do_objectID" : "25253F08-5FCD-4E06-9C7B-0D201C9845AF",
+                "_class" : "style",
+                "miterLimit" : 10,
+                "startMarkerType" : 0,
+                "endMarkerType" : 0
+              },
+              "rotation" : 0,
+              "frame" : {
+                "_class" : "rect",
+                "height" : 188,
+                "do_objectID" : "3F07216C-D2CB-402A-9DD1-A67AC0B29BBD",
+                "constrainProportions" : false,
+                "x" : 312,
+                "width" : 128,
+                "y" : 670
+              },
+              "do_objectID" : "5CC57738-4BE9-47EB-A6CD-0D39BBC9A793",
+              "layerListExpandedType" : 0,
+              "exportOptions" : {
+                "shouldTrim" : false,
+                "do_objectID" : "8EFB68FA-E2E8-4DC0-BFB8-A2C086257B00",
+                "includedLayerIds" : [
+
+                ],
+                "_class" : "exportOptions",
+                "layerOptions" : 0,
+                "exportFormats" : [
+
+                ]
+              },
+              "symbolID" : "BE93DD47-DA0D-4333-8A50-7A938C621DB0",
+              "isFlippedVertical" : false,
+              "nameIsFixed" : false,
+              "name" : "Menu \/ Exposed",
+              "isVisible" : true,
+              "resizingType" : 0,
+              "horizontalSpacing" : 0,
+              "isLocked" : false,
+              "scale" : 1,
+              "shouldBreakMaskChain" : false,
+              "isFixedToViewport" : false,
+              "_class" : "symbolInstance",
+              "booleanOperation" : 0,
+              "resizingConstraint" : 63,
+              "overrideValues" : [
+
+              ]
+            },
+            {
+              "isFlippedHorizontal" : false,
+              "verticalSpacing" : 0,
+              "style" : {
+                "windingRule" : 1,
+                "do_objectID" : "A4AF652F-0FF5-4256-8A5E-7947BA777597",
+                "_class" : "style",
+                "miterLimit" : 10,
+                "startMarkerType" : 0,
+                "endMarkerType" : 0
+              },
+              "rotation" : 0,
+              "frame" : {
+                "_class" : "rect",
+                "height" : 36,
+                "do_objectID" : "000F0BF6-4D80-482E-ACAF-2C4E97750062",
+                "constrainProportions" : false,
+                "x" : 96,
+                "width" : 154,
+                "y" : 670
+              },
+              "do_objectID" : "2D556CE6-7486-4EDE-9957-4473E41F33A4",
+              "layerListExpandedType" : 0,
+              "exportOptions" : {
+                "shouldTrim" : false,
+                "do_objectID" : "D51F6CDB-21E1-459D-B610-E794286E0954",
+                "includedLayerIds" : [
+
+                ],
+                "_class" : "exportOptions",
+                "layerOptions" : 0,
+                "exportFormats" : [
+
+                ]
+              },
+              "symbolID" : "59FD6F4E-0C4E-42B7-BEB4-02887EC68C8C",
+              "isFlippedVertical" : false,
+              "nameIsFixed" : false,
+              "name" : "Buttons \/ Contained \/ Enabled",
+              "isVisible" : true,
+              "resizingType" : 0,
+              "horizontalSpacing" : 0,
+              "isLocked" : false,
+              "scale" : 1,
+              "shouldBreakMaskChain" : false,
+              "isFixedToViewport" : false,
+              "_class" : "symbolInstance",
+              "booleanOperation" : 0,
+              "resizingConstraint" : 63,
+              "overrideValues" : [
+
+              ]
+            },
+            {
+              "isFlippedHorizontal" : false,
+              "verticalSpacing" : 0,
+              "style" : {
+                "windingRule" : 1,
+                "do_objectID" : "D75AE72E-1D8A-42C6-8054-94745F09BBD0",
+                "_class" : "style",
+                "miterLimit" : 10,
+                "startMarkerType" : 0,
+                "endMarkerType" : 0
+              },
+              "rotation" : 0,
+              "frame" : {
+                "_class" : "rect",
+                "height" : 72,
+                "do_objectID" : "857A3C46-7720-4221-8F2D-74FAFE616A3C",
+                "constrainProportions" : false,
+                "x" : 920,
+                "width" : 360,
+                "y" : 863
+              },
+              "do_objectID" : "1FB89F6A-7D8B-47DE-B8E0-A60F31907964",
+              "layerListExpandedType" : 0,
+              "exportOptions" : {
+                "shouldTrim" : false,
+                "do_objectID" : "EBBCD74C-4BC5-42C0-B83E-880D6109D3EF",
+                "includedLayerIds" : [
+
+                ],
+                "_class" : "exportOptions",
+                "layerOptions" : 0,
+                "exportFormats" : [
+
+                ]
+              },
+              "symbolID" : "8DE2B344-F4B3-45A6-81F1-37C379B12529",
+              "isFlippedVertical" : false,
+              "nameIsFixed" : false,
+              "name" : "List \/ Two Line \/ Image 16:9",
+              "isVisible" : true,
+              "resizingType" : 0,
+              "horizontalSpacing" : 0,
+              "isLocked" : false,
+              "scale" : 1,
+              "shouldBreakMaskChain" : false,
+              "isFixedToViewport" : false,
+              "_class" : "symbolInstance",
+              "booleanOperation" : 0,
+              "resizingConstraint" : 63,
+              "overrideValues" : [
+
+              ]
+            },
+            {
+              "isFlippedHorizontal" : false,
+              "verticalSpacing" : 0,
+              "style" : {
+                "windingRule" : 1,
+                "do_objectID" : "16766331-82BE-4E70-B5A8-1854B36538D1",
+                "_class" : "style",
+                "miterLimit" : 10,
+                "startMarkerType" : 0,
+                "endMarkerType" : 0
+              },
+              "rotation" : 0,
+              "frame" : {
+                "_class" : "rect",
+                "height" : 64,
+                "do_objectID" : "F6A41547-31A3-4AC6-A767-3CFDED1CD233",
+                "constrainProportions" : false,
+                "x" : 80,
+                "width" : 360,
+                "y" : 170
+              },
+              "do_objectID" : "E3B67CB8-B4B4-4DF6-AC83-0F88E4A9BE38",
+              "layerListExpandedType" : 0,
+              "exportOptions" : {
+                "shouldTrim" : false,
+                "do_objectID" : "F170EDF7-0071-4DCB-8653-2A7925239183",
+                "includedLayerIds" : [
+
+                ],
+                "_class" : "exportOptions",
+                "layerOptions" : 0,
+                "exportFormats" : [
+
+                ]
+              },
+              "symbolID" : "FFC87808-3231-4851-898E-FBD14C44E931",
+              "isFlippedVertical" : false,
+              "nameIsFixed" : false,
+              "name" : "App Bar \/ Bottom App Bar \/ No FAB \/ Raised \/ Primary Color",
+              "isVisible" : true,
+              "resizingType" : 0,
+              "horizontalSpacing" : 0,
+              "isLocked" : false,
+              "scale" : 1,
+              "shouldBreakMaskChain" : false,
+              "isFixedToViewport" : false,
+              "_class" : "symbolInstance",
+              "booleanOperation" : 0,
+              "resizingConstraint" : 63,
+              "overrideValues" : [
+
+              ]
+            },
+            {
+              "isFlippedHorizontal" : false,
+              "verticalSpacing" : 0,
+              "style" : {
+                "windingRule" : 1,
+                "do_objectID" : "16088D07-50C2-4CD3-BD57-E4C947765892",
+                "_class" : "style",
+                "miterLimit" : 10,
+                "startMarkerType" : 0,
+                "endMarkerType" : 0
+              },
+              "rotation" : 0,
+              "frame" : {
+                "_class" : "rect",
+                "height" : 244,
+                "do_objectID" : "D7DB95C3-7C33-44C8-BC0E-C3626AB784D1",
+                "constrainProportions" : false,
+                "x" : 920,
+                "width" : 168,
+                "y" : 180
+              },
+              "do_objectID" : "B6E98A4A-483D-4F10-BCB7-5E05A92F4B25",
+              "layerListExpandedType" : 0,
+              "exportOptions" : {
+                "shouldTrim" : false,
+                "do_objectID" : "B4C336FA-FD31-486A-8F5C-85B90AD6E2A1",
+                "includedLayerIds" : [
+
+                ],
+                "_class" : "exportOptions",
+                "layerOptions" : 0,
+                "exportFormats" : [
+
+                ]
+              },
+              "symbolID" : "D98C735C-4E5C-45BA-9D02-BECFACDC011F",
+              "isFlippedVertical" : false,
+              "nameIsFixed" : false,
+              "name" : "Cards \/ List 2-up \/ Filled \/ Image Lead \/ Resting",
+              "isVisible" : true,
+              "resizingType" : 0,
+              "horizontalSpacing" : 0,
+              "isLocked" : false,
+              "scale" : 1,
+              "shouldBreakMaskChain" : false,
+              "isFixedToViewport" : false,
+              "_class" : "symbolInstance",
+              "booleanOperation" : 0,
+              "resizingConstraint" : 63,
+              "overrideValues" : [
+
+              ]
+            },
+            {
+              "isFlippedHorizontal" : false,
+              "verticalSpacing" : 0,
+              "style" : {
+                "windingRule" : 1,
+                "do_objectID" : "69D755AC-9B8F-4739-9D69-89CAD7D81ADA",
+                "_class" : "style",
+                "miterLimit" : 10,
+                "startMarkerType" : 0,
+                "endMarkerType" : 0
+              },
+              "rotation" : 0,
+              "frame" : {
+                "_class" : "rect",
+                "height" : 244,
+                "do_objectID" : "516E004C-6559-41D9-A5A5-5A1130370BE7",
+                "constrainProportions" : false,
+                "x" : 1096,
+                "width" : 168,
+                "y" : 180
+              },
+              "do_objectID" : "24B8B88F-101A-49F3-96D4-C131F7DC59EB",
+              "layerListExpandedType" : 0,
+              "exportOptions" : {
+                "shouldTrim" : false,
+                "do_objectID" : "763B0A0D-5388-4A20-96ED-07A0B4A49C7C",
+                "includedLayerIds" : [
+
+                ],
+                "_class" : "exportOptions",
+                "layerOptions" : 0,
+                "exportFormats" : [
+
+                ]
+              },
+              "symbolID" : "D98C735C-4E5C-45BA-9D02-BECFACDC011F",
+              "isFlippedVertical" : false,
+              "nameIsFixed" : false,
+              "name" : "Cards \/ List 2-up \/ Filled \/ Image Lead \/ Resting",
+              "isVisible" : true,
+              "resizingType" : 0,
+              "horizontalSpacing" : 0,
+              "isLocked" : false,
+              "scale" : 1,
+              "shouldBreakMaskChain" : false,
+              "isFixedToViewport" : false,
+              "_class" : "symbolInstance",
+              "booleanOperation" : 0,
+              "resizingConstraint" : 63,
+              "overrideValues" : [
+
+              ]
+            },
+            {
+              "isFlippedHorizontal" : false,
+              "verticalSpacing" : 0,
+              "style" : {
+                "windingRule" : 1,
+                "do_objectID" : "18F8EFB9-EFBA-4E28-8407-45A46023269C",
+                "_class" : "style",
+                "miterLimit" : 10,
+                "startMarkerType" : 0,
+                "endMarkerType" : 0
+              },
+              "rotation" : 0,
+              "frame" : {
+                "_class" : "rect",
+                "height" : 640,
+                "do_objectID" : "66FB7787-75C2-472C-BDF1-811BD5A86453",
+                "constrainProportions" : false,
+                "x" : 500,
+                "width" : 360,
+                "y" : 149
+              },
+              "do_objectID" : "66FDCF19-E729-49BE-B4C6-7BEFD3EB7013",
+              "layerListExpandedType" : 0,
+              "exportOptions" : {
+                "shouldTrim" : false,
+                "do_objectID" : "B03D5C41-9461-4EC4-9A11-9F949733D178",
+                "includedLayerIds" : [
+
+                ],
+                "_class" : "exportOptions",
+                "layerOptions" : 0,
+                "exportFormats" : [
+
+                ]
+              },
+              "symbolID" : "52552AAD-F290-4D49-9130-FA9FDFE00952",
+              "isFlippedVertical" : false,
+              "nameIsFixed" : false,
+              "name" : "Navigation Drawer \/ Side \/ Resting",
+              "isVisible" : true,
+              "resizingType" : 0,
+              "horizontalSpacing" : 0,
+              "isLocked" : false,
+              "scale" : 1,
+              "shouldBreakMaskChain" : false,
+              "isFixedToViewport" : false,
+              "_class" : "symbolInstance",
+              "booleanOperation" : 0,
+              "resizingConstraint" : 63,
+              "overrideValues" : [
+
+              ]
+            },
+            {
+              "isFlippedHorizontal" : false,
+              "verticalSpacing" : 0,
+              "style" : {
+                "windingRule" : 1,
+                "do_objectID" : "ECA0658E-1627-4551-A8AB-526D29091610",
+                "_class" : "style",
+                "miterLimit" : 10,
+                "startMarkerType" : 0,
+                "endMarkerType" : 0
+              },
+              "rotation" : 0,
+              "frame" : {
+                "_class" : "rect",
+                "height" : 48,
+                "do_objectID" : "75F61C87-B86F-4C81-A56F-AF3F4ADD75FF",
+                "constrainProportions" : false,
+                "x" : 920,
+                "width" : 328,
+                "y" : 612
+              },
+              "do_objectID" : "7845C35A-12AD-4D9B-8B9E-962340526BA5",
+              "layerListExpandedType" : 0,
+              "exportOptions" : {
+                "shouldTrim" : false,
+                "do_objectID" : "493A7B53-F50E-4CBA-B0BE-8DDA830E12A2",
+                "includedLayerIds" : [
+
+                ],
+                "_class" : "exportOptions",
+                "layerOptions" : 0,
+                "exportFormats" : [
+
+                ]
+              },
+              "symbolID" : "F4A9CD8E-A338-4A3C-9C4A-7501EB297C27",
+              "isFlippedVertical" : false,
+              "nameIsFixed" : false,
+              "name" : "Slider \/ Continuous \/ Pressed",
+              "isVisible" : true,
+              "resizingType" : 0,
+              "horizontalSpacing" : 0,
+              "isLocked" : false,
+              "scale" : 1,
+              "shouldBreakMaskChain" : false,
+              "isFixedToViewport" : false,
+              "_class" : "symbolInstance",
+              "booleanOperation" : 0,
+              "resizingConstraint" : 63,
+              "overrideValues" : [
+
+              ]
+            }
+          ],
+          "isLocked" : false,
+          "shouldBreakMaskChain" : false,
+          "isFixedToViewport" : false,
+          "_class" : "group",
+          "booleanOperation" : 0,
+          "resizingConstraint" : 63
+        }
+      ],
+      "grid" : {
+        "thickGridTimes" : 40,
+        "_class" : "simpleGrid",
+        "isEnabled" : false,
+        "gridSize" : 4
+      },
+      "isLocked" : false,
+      "layout" : {
+        "columnWidth" : 40,
+        "totalWidth" : 1080,
+        "drawHorizontalLines" : false,
+        "gutterWidth" : 480,
+        "_class" : "layoutGrid",
+        "horizontalOffset" : -0.5,
+        "isEnabled" : false,
+        "gutterHeight" : 4,
+        "drawHorizontal" : false,
+        "guttersOutside" : false,
+        "drawVertical" : true,
+        "numberOfColumns" : 3,
+        "rowHeightMultiplication" : 1
+      },
+      "shouldBreakMaskChain" : true,
+      "isFlowHome" : false,
+      "isFixedToViewport" : false,
+      "_class" : "artboard",
+      "booleanOperation" : 0,
+      "resizingConstraint" : 63,
+      "includeBackgroundColorInExport" : true
+    }
+  ],
+  "isLocked" : false,
+  "shouldBreakMaskChain" : false,
+  "isFixedToViewport" : false,
+  "_class" : "page",
+  "booleanOperation" : 0,
+  "resizingConstraint" : 63
+}
