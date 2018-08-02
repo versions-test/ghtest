@@ -1,0 +1,310 @@
+{
+  "isFlippedHorizontal" : false,
+  "style" : {
+    "windingRule" : 1,
+    "_class" : "style",
+    "miterLimit" : 10,
+    "startMarkerType" : 0,
+    "endMarkerType" : 0
+  },
+  "rotation" : 0,
+  "frame" : {
+    "x" : 0,
+    "y" : 0,
+    "_class" : "rect",
+    "constrainProportions" : false,
+    "height" : 0,
+    "width" : 0
+  },
+  "do_objectID" : "7AC2A5F0-D923-4A07-92D2-D9EADAE92C8D",
+  "layerListExpandedType" : 0,
+  "exportOptions" : {
+    "shouldTrim" : false,
+    "includedLayerIds" : [
+
+    ],
+    "layerOptions" : 0,
+    "_class" : "exportOptions",
+    "exportFormats" : [
+
+    ]
+  },
+  "hasClickThrough" : true,
+  "horizontalRulerData" : {
+    "base" : -847,
+    "_class" : "rulerData",
+    "guides" : [
+
+    ]
+  },
+  "includeInCloudUpload" : true,
+  "verticalRulerData" : {
+    "base" : -563,
+    "_class" : "rulerData",
+    "guides" : [
+
+    ]
+  },
+  "isFlippedVertical" : false,
+  "nameIsFixed" : true,
+  "name" : "Screens",
+  "isVisible" : true,
+  "resizingType" : 0,
+  "layers" : [
+    {
+      "isFlippedHorizontal" : false,
+      "style" : {
+        "windingRule" : 1,
+        "_class" : "style",
+        "miterLimit" : 10,
+        "startMarkerType" : 0,
+        "endMarkerType" : 0
+      },
+      "rotation" : 0,
+      "frame" : {
+        "x" : -602,
+        "y" : -310,
+        "_class" : "rect",
+        "constrainProportions" : false,
+        "height" : 420,
+        "width" : 414
+      },
+      "do_objectID" : "4CDFB67D-7E6D-43D3-A472-2A14881C8E9A",
+      "layerListExpandedType" : 0,
+      "exportOptions" : {
+        "shouldTrim" : false,
+        "includedLayerIds" : [
+
+        ],
+        "layerOptions" : 0,
+        "_class" : "exportOptions",
+        "exportFormats" : [
+
+        ]
+      },
+      "hasClickThrough" : true,
+      "hasBackgroundColor" : false,
+      "horizontalRulerData" : {
+        "base" : 0,
+        "_class" : "rulerData",
+        "guides" : [
+
+        ]
+      },
+      "backgroundColor" : {
+        "red" : 1,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 1,
+        "green" : 1
+      },
+      "includeInCloudUpload" : true,
+      "resizesContent" : false,
+      "verticalRulerData" : {
+        "base" : 0,
+        "_class" : "rulerData",
+        "guides" : [
+
+        ]
+      },
+      "isFlippedVertical" : false,
+      "nameIsFixed" : false,
+      "name" : "Artboard",
+      "isVisible" : true,
+      "resizingType" : 0,
+      "layers" : [
+        {
+          "isFlippedHorizontal" : false,
+          "style" : {
+            "textStyle" : {
+              "verticalAlignment" : 0,
+              "_class" : "textStyle",
+              "encodedAttributes" : {
+                "MSAttributedStringFontAttribute" : {
+                  "attributes" : {
+                    "name" : "Rubik-Regular",
+                    "size" : 19
+                  },
+                  "_class" : "fontDescriptor"
+                },
+                "MSAttributedStringColorAttribute" : {
+                  "red" : 0.20000000000000001,
+                  "_class" : "color",
+                  "alpha" : 1,
+                  "blue" : 0.20000000000000001,
+                  "green" : 0.20000000000000001
+                },
+                "textStyleVerticalAlignmentKey" : 0,
+                "kerning" : 0,
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "alignment" : 0
+                }
+              }
+            },
+            "windingRule" : 1,
+            "_class" : "style",
+            "miterLimit" : 10,
+            "startMarkerType" : 0,
+            "endMarkerType" : 0
+          },
+          "rotation" : 0,
+          "frame" : {
+            "x" : 153,
+            "y" : 88,
+            "_class" : "rect",
+            "constrainProportions" : false,
+            "height" : 23,
+            "width" : 108
+          },
+          "do_objectID" : "1D086F08-DE8E-43F2-B086-353FA67E0F28",
+          "layerListExpandedType" : 0,
+          "exportOptions" : {
+            "shouldTrim" : false,
+            "includedLayerIds" : [
+
+            ],
+            "layerOptions" : 0,
+            "_class" : "exportOptions",
+            "exportFormats" : [
+
+            ]
+          },
+          "glyphBounds" : "{{1, 4}, {101, 15}}",
+          "dontSynchroniseWithSymbol" : false,
+          "lineSpacingBehaviour" : 2,
+          "textBehaviour" : 0,
+          "isFlippedVertical" : false,
+          "nameIsFixed" : false,
+          "name" : "Hello Wolrd.",
+          "isVisible" : true,
+          "resizingType" : 0,
+          "isLocked" : false,
+          "attributedString" : {
+            "string" : "Hello Wolrd. ",
+            "_class" : "attributedString",
+            "attributes" : [
+              {
+                "length" : 13,
+                "_class" : "stringAttribute",
+                "location" : 0,
+                "attributes" : {
+                  "MSAttributedStringFontAttribute" : {
+                    "attributes" : {
+                      "name" : "Rubik-Regular",
+                      "size" : 19
+                    },
+                    "_class" : "fontDescriptor"
+                  },
+                  "MSAttributedStringColorAttribute" : {
+                    "red" : 0.20000000000000001,
+                    "_class" : "color",
+                    "alpha" : 1,
+                    "blue" : 0.20000000000000001,
+                    "green" : 0.20000000000000001
+                  },
+                  "kerning" : 0,
+                  "textStyleVerticalAlignmentKey" : 0,
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "alignment" : 0
+                  }
+                }
+              }
+            ]
+          },
+          "shouldBreakMaskChain" : false,
+          "isFixedToViewport" : false,
+          "_class" : "text",
+          "booleanOperation" : -1,
+          "resizingConstraint" : 47,
+          "automaticallyDrawOnUnderlyingPath" : false
+        },
+        {
+          "isFlippedHorizontal" : false,
+          "verticalSpacing" : 0,
+          "style" : {
+            "windingRule" : 1,
+            "_class" : "style",
+            "miterLimit" : 10,
+            "startMarkerType" : 0,
+            "endMarkerType" : 0
+          },
+          "rotation" : 0,
+          "frame" : {
+            "x" : 0,
+            "y" : 0,
+            "_class" : "rect",
+            "constrainProportions" : false,
+            "height" : 56,
+            "width" : 414
+          },
+          "do_objectID" : "7D81EB58-52FF-4A6D-A261-1155505B7D24",
+          "layerListExpandedType" : 0,
+          "exportOptions" : {
+            "shouldTrim" : false,
+            "includedLayerIds" : [
+
+            ],
+            "layerOptions" : 0,
+            "_class" : "exportOptions",
+            "exportFormats" : [
+
+            ]
+          },
+          "symbolID" : "39A9DFEA-45AE-40FE-8D8F-7D88EC1AF6F7",
+          "isFlippedVertical" : false,
+          "nameIsFixed" : false,
+          "name" : "App Bar \/ Top App Bar \/ Regular \/ Flat \/ Primary Color",
+          "isVisible" : true,
+          "resizingType" : 0,
+          "horizontalSpacing" : 0,
+          "isLocked" : false,
+          "scale" : 1,
+          "shouldBreakMaskChain" : false,
+          "isFixedToViewport" : false,
+          "_class" : "symbolInstance",
+          "booleanOperation" : -1,
+          "resizingConstraint" : 63,
+          "overrideValues" : [
+            {
+              "do_objectID" : "38D03EFC-5BF3-483B-AA23-9DB973B2D85E",
+              "overrideName" : "2A1EB7F9-DFAD-4C37-90FB-D7B0694602EF\/5CFFEB67-F6EA-4F38-B0A2-5CAF91996170_stringValue",
+              "_class" : "overrideValue",
+              "value" : "Hello World"
+            }
+          ]
+        }
+      ],
+      "isLocked" : false,
+      "shouldBreakMaskChain" : true,
+      "isFlowHome" : false,
+      "isFixedToViewport" : false,
+      "_class" : "artboard",
+      "booleanOperation" : -1,
+      "resizingConstraint" : 63,
+      "includeBackgroundColorInExport" : true
+    }
+  ],
+  "isLocked" : false,
+  "layout" : {
+    "columnWidth" : 48,
+    "totalWidth" : 864,
+    "drawHorizontalLines" : false,
+    "gutterWidth" : 156,
+    "_class" : "layoutGrid",
+    "horizontalOffset" : 80,
+    "isEnabled" : false,
+    "gutterHeight" : 4,
+    "drawHorizontal" : true,
+    "guttersOutside" : false,
+    "drawVertical" : true,
+    "numberOfColumns" : 5,
+    "rowHeightMultiplication" : 1
+  },
+  "shouldBreakMaskChain" : false,
+  "isFixedToViewport" : false,
+  "_class" : "page",
+  "booleanOperation" : -1,
+  "resizingConstraint" : 63
+}
